@@ -6,7 +6,7 @@ The clock displays the time on a 7-segment display and allows for setting the ti
 ## Components 🛠️
 - 8051 Microcontroller (e.g., AT89C51)
 - 7-Segment Displays 
-- RTC 
+- RTC ds1307
 - Resistors for current limiting
 - Push Buttons (for setting time)
 - Crystal Oscillator (for clock timing)
