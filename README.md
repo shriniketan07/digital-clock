@@ -1,2 +1,1 @@
-# digital-clock
-digital clock using 8051 microcontroller
+# Digital Clock using 8051 Microcontroller 🕒
