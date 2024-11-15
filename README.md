@@ -12,3 +12,5 @@ The clock displays the time on a 7-segment display and allows for setting the ti
 - Crystal Oscillator (for clock timing)
 - Transistor (optional) for driving 7-segment displays
 - Power Supply (5V DC)
+
+![Circuit](digital_clock.jpg)
